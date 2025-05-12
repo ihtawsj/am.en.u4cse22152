@@ -16,4 +16,9 @@ This is a full-stack web application developed for the **Affordmed Campus Hiring
 - Material UI
 - Recharts
 
+To run:
+
+npm install
+npm run dev
+
 
